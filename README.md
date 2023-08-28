@@ -1,6 +1,3 @@
-Certainly! Here's a sample GitHub README.md that you can use as inspiration for your profile:
-
----
 
 ## Hi there 👋, I'm Chaz!
 
