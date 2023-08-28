@@ -1,5 +1,6 @@
 
-<img src="https://www.dropbox.com/scl/fi/591fpg10ob857r3eymr98/gh-banner.png?rlkey=zax22ma0fthth45madd03x7lj&dl=0" alt="Chaz Wilder - Software Developer Banner" />
+<img src="https://previews.dropbox.com/p/thumb/ACDYjOJHerGUOp-C7SMbl3n_E-MmUTiE7jZY3osfu9ETsWszr3UpaAYy2SwX6IhawEEZ1TfMVQPDVzKKpgN5RCfLPtinDj7_b0FNzpUEwLIBuZK52WxXFvRDV_cX2-e6DeEWQ1UrXi_xdFCGjwRY9c7QBT0dqSOVrdQzo9rHonqQlHrpFNMwjh0dhVy08jYUCw1mBwDbLa13cUKUOoiTyBVur4cAPPWb4eKrqJ3Qgg3tmXc7IGN7Rr6w-f3P87k_UnLTXZhdmKetmBqrasBXWWexxXNrZy4BlMsjpLeHxo9XJpuWEUf2MyGJZBPRFkJpVYF0WkhKCzSAmQVY8DiLolWE/p.png" alt="Chaz Wilder - Software Developer Banner" />
+
 ## Hi there 👋, I'm Chaz!
 
 🔭 **I'm a Software Developer specializing in Python, Rust, JavaScript, React, and SQL.**
