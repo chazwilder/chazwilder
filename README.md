@@ -1,5 +1,5 @@
 
-<img src="https://previews.dropbox.com/p/thumb/ACDYjOJHerGUOp-C7SMbl3n_E-MmUTiE7jZY3osfu9ETsWszr3UpaAYy2SwX6IhawEEZ1TfMVQPDVzKKpgN5RCfLPtinDj7_b0FNzpUEwLIBuZK52WxXFvRDV_cX2-e6DeEWQ1UrXi_xdFCGjwRY9c7QBT0dqSOVrdQzo9rHonqQlHrpFNMwjh0dhVy08jYUCw1mBwDbLa13cUKUOoiTyBVur4cAPPWb4eKrqJ3Qgg3tmXc7IGN7Rr6w-f3P87k_UnLTXZhdmKetmBqrasBXWWexxXNrZy4BlMsjpLeHxo9XJpuWEUf2MyGJZBPRFkJpVYF0WkhKCzSAmQVY8DiLolWE/p.png" alt="Chaz Wilder - Software Developer Banner" />
+![Chaz Wilder](gh-banner.png)
 
 ## Hi there 👋, I'm Chaz!
 
