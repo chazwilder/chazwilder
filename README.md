@@ -1,4 +1,5 @@
-![BANNER](https://www.dropbox.com/scl/fi/591fpg10ob857r3eymr98/gh-banner.png?rlkey=zax22ma0fthth45madd03x7lj&dl=0)
+
+<img src="https://www.dropbox.com/scl/fi/591fpg10ob857r3eymr98/gh-banner.png?rlkey=zax22ma0fthth45madd03x7lj&dl=0" alt="Chaz Wilder - Software Developer Banner" />
 ## Hi there 👋, I'm Chaz!
 
 🔭 **I'm a Software Developer specializing in Python, Rust, JavaScript, React, and SQL.**
