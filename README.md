@@ -35,7 +35,7 @@ Certainly! Here's a sample GitHub README.md that you can use as inspiration for 
 
 ### 📈 Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide_border=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=chazwilder&show_icons=true&hide_border=true)
 
 ---
 
@@ -50,5 +50,3 @@ Certainly! Here's a sample GitHub README.md that you can use as inspiration for 
 👉 **Let's build something great together!**
 
 ---
-
-Feel free to customize this README to better suit your personality, projects, and skills!
