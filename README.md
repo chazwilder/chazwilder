@@ -11,15 +11,15 @@
 
 ---
 
-### 📌 Pinpoint Skills
+### 📌 Pinpoint Skills/💻 Tech Stack
 
-- **Languages**: Python 🐍, Rust 🦀, JavaScript 🟨
-- **Web**: React ⚛️, HTML, CSS
-- **Databases**: SQL 🛢, MongoDB 🍃
-- **Tools**: Git, Docker, Jenkins
-- **Cloud**: AWS, Azure
-- **Others**: RESTful APIs, GraphQL, Microservices
-
+- **Languages**: ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54), ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white), ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+- **Web**: ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB),
+- **Frameworks** ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white), ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray), ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
+- **Databases**: ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white), ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white), ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+- **DevOps**: ![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white), ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white), ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white), ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
+- **Backend** ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white), ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white), ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+- **Cloud**: ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white)
 ---
 
 ### 🛠️ Recent Projects
